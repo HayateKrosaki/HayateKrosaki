@@ -1,30 +1,30 @@
 <!-- Optional Banner (Keep commented out unless you want it) -->
 <!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
 
-<h1 align="center">Hi 👋, I'm Tran Huu Dat</h1>
-<h3 align="center">I'm a Software Engineering student at Ton Duc Thang University (TDTU) from Vietnam.</h3>
+<h1 align="center">Chào 👋, Mình là Trần Hữu Đạt</h1>
+<h3 align="center">Mình là sinh viên Công nghệ Phần mềm tại Đại học Tôn Đức Thắng (TDTU), Việt Nam.</h3>
 
 <p align="center">
-  <strong>English</strong> | <a href="readme_vn.md">Tiếng Việt</a>
+  <a href="README.md">English</a> | <strong>Tiếng Việt</strong>
 </p>
 
 <img align="right" alt="Coding Animation" width="400" src="img/type.gif"> 
-<!-- Make sure 'type.gif' exists in your repository or replace the src with a valid URL -->
+<!-- Đảm bảo 'type.gif' tồn tại trong kho lưu trữ của bạn hoặc thay thế src bằng URL hợp lệ -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TranHuuDat2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-Here's a little bit about me:
-- 🌱 I’m currently deepening my knowledge in **Web Development**.
-- 👯 I’m open to collaborating on **Web Development projects**.
-- 📫 How to reach me: **huudat.peashooer@gmail.com**
+Đôi nét về mình:
+- 🌱 Mình đang nghiên cứu sâu hơn về **Phát triển Web**.
+- 👯 Mình luôn sẵn sàng hợp tác trong các **dự án Phát triển Web**.
+- 📫 Liên hệ với mình qua: **huudat.peashooer@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Kết nối với mình:</h3>
 <p align="left">
   <a href="https://www.facebook.com/tranhuudat.10112004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://www.instagram.com/huudat.2k4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Ngôn ngữ và Công cụ:</h3>
 
 <table align="center">
   <tr>
@@ -105,9 +105,9 @@ Here's a little bit about me:
   </tr>
 </table>
 
-### 🏆 Academic Projects:
+### 🏆 Dự án học thuật:
 
-<h3 align="center">🎨 Featured Projects Showcase</h3>
+<h3 align="center">🎨 Kho Dự án Nổi bật</h3>
 
 <table border="0" width="100%">
   
@@ -121,11 +121,11 @@ Here's a little bit about me:
     <td width="45%" valign="middle">
       <h3 align="left">🧱 BrickShop E-commerce</h3>
       <p>
-        <strong>Specialized e-commerce platform for Qman, Keeppley, and Lego.</strong><br>
-        Full-stack system with complete features: Shopping Cart, Payment, Order Management, and Admin Dashboard.
+        <strong>Sàn thương mại điện tử chuyên biệt cho Qman, Keeppley, Lego.</strong><br>
+        Hệ thống Full-stack với đầy đủ tính năng: Giỏ hàng, Thanh toán, Quản lý đơn hàng và Dashboard Admin.
       </p>
       <p>
-        <strong>🛠 Tech Stack:</strong><br>
+        <strong>🛠 Công nghệ:</strong><br>
         <code>Node.js</code> <code>Express</code> <code>MySQL</code><br>
         <code>Bootstrap</code> <code>Tailwind CSS</code>
       </p>
@@ -142,11 +142,11 @@ Here's a little bit about me:
     <td width="45%" valign="middle">
       <h3 align="left">🧸 Omacha Shop</h3>
       <p>
-        <strong>Full-stack toy store.</strong><br>
-        E-commerce platform specialized in toys. Comprehensive shopping experience for customers and a powerful management system (Admin).
+        <strong>Cửa hàng đồ chơi Full-stack.</strong><br>
+        Nền tảng thương mại điện tử chuyên về đồ chơi. Trải nghiệm mua sắm toàn diện cho khách hàng và hệ thống quản trị (Admin) mạnh mẽ.
       </p>
       <p>
-        <strong>🛠 Tech Stack:</strong><br>
+        <strong>🛠 Công nghệ:</strong><br>
         <code>PHP</code> <code>MySQL</code> <code>Bootstrap</code><br>
         <code>JavaScript</code>
       </p>
@@ -173,11 +173,11 @@ Here's a little bit about me:
     <td width="45%" valign="middle">
       <h3 align="left">👗 ZStyle Fashion</h3>
       <p>
-        <strong>Basic fashion website.</strong><br>
-        Clothing website with core functions: product viewing, shopping cart management, and basic checkout process. A PHP & MySQL based project.
+        <strong>Trang web thời trang cơ bản.</strong><br>
+        Website bán quần áo với các chức năng cốt lõi: xem sản phẩm, quản lý giỏ hàng và quy trình thanh toán cơ bản. Dự án nền tảng PHP & MySQL.
       </p>
       <p>
-        <strong>🛠 Tech Stack:</strong><br>
+        <strong>🛠 Công nghệ:</strong><br>
         <code>PHP</code> <code>MySQL</code> <code>HTML5/CSS3</code><br>
         <code>JavaScript</code>
       </p>
@@ -194,11 +194,11 @@ Here's a little bit about me:
     <td width="45%" valign="middle">
       <h3 align="left">📚 UniDocs Ecosystem</h3>
       <p>
-        <strong>Document Repository & Comprehensive Learning Ecosystem.</strong><br>
-        UniDocs: A free course material repository for IT students. Easy and efficient access to textbooks, lectures, and exams for specialized subjects.
+        <strong>Kho tài liệu & Hệ sinh thái học tập toàn diện.</strong><br>
+        UniDocs: Kho tài liệu môn học miễn phí dành cho sinh viên Công nghệ thông tin. Truy cập giáo trình, bài giảng, đề thi các môn chuyên ngành dễ dàng và hiệu quả.
       </p>
       <p>
-        <strong>🛠 Tech Stack:</strong><br>
+        <strong>🛠 Công nghệ:</strong><br>
         <code>HTML5</code> <code>Tailwind CSS</code> <code>Vanilla JS</code><br>
       </p>
       <p align="left">
@@ -224,11 +224,11 @@ Here's a little bit about me:
     <td width="45%" valign="middle">
       <h3 align="left">📑 Slidify</h3>
       <p>
-        <strong>Interactive Bilingual Slide Learning Platform.</strong><br>
-        Slidify: An interactive learning platform that transforms English lecture slides into bilingual lessons with detailed notes and terminology explanations.
+        <strong>Nền tảng học Slide song ngữ tương tác.</strong><br>
+        Slidify: Nền tảng học tập tương tác giúp biến các Slide bài giảng tiếng Anh thành bài học song ngữ với ghi chú và giải thích thuật ngữ chi tiết.
       </p>
       <p>
-        <strong>🛠 Tech Stack:</strong><br>
+        <strong>🛠 Công nghệ:</strong><br>
         <code>JavaScript (ES6+)</code> <code>LocalStorage</code> <code>CSS3</code>
       </p>
       <p align="left">
@@ -247,11 +247,11 @@ Here's a little bit about me:
     <td width="45%" valign="middle">
       <h3 align="left">🎓 Aptis Practice Tool</h3>
       <p>
-        <strong>Highly Interactive Certification Exam Practice Web App.</strong><br>
-        An interactive Aptis ESOL practice website featuring: Drag & Drop, Audio Player, and a timer. Built with HTML, CSS, and JavaScript.
+        <strong>Web App luyện thi chứng chỉ tương tác cao.</strong><br>
+        Một trang web luyện thi Aptis ESOL tương tác gồm các tính năng: Drag & Drop, Audio Player và bộ đếm giờ. Xây dựng bằng HTML, CSS và JavaScript.
       </p>
       <p>
-        <strong>🛠 Tech Stack:</strong><br>
+        <strong>🛠 Công nghệ:</strong><br>
         <code>Advanced JS</code> <code>SortableJS</code> <code>Driver.js</code><br>
         <code>JSON Data Structure</code>
       </p>
@@ -281,11 +281,11 @@ Here's a little bit about me:
     <td width="45%" valign="middle">
       <h3 align="left">📺 ANIME.TV</h3>
       <p>
-        <strong>Anime & Manga World.</strong><br>
-        Anime & Manga info website inspired by Crunchyroll. A personal project to practice UI development skills.
+        <strong>Thế giới Anime & Manga.</strong><br>
+        Website xem thông tin Anime & Manga lấy cảm hứng từ Crunchyroll. Dự án cá nhân để rèn luyện kỹ năng xây dựng giao diện.
       </p>
       <p>
-        <strong>🛠 Tech Stack:</strong><br>
+        <strong>🛠 Công nghệ:</strong><br>
         <code>HTML5</code> <code>CSS3</code> <code>Vanilla JS</code><br>
         <code>GitHub Pages</code>
       </p>
@@ -302,11 +302,11 @@ Here's a little bit about me:
     <td width="45%" valign="middle">
       <h3 align="left">🎵 MyMusic Player</h3>
       <p>
-        <strong>Modern Music Player Interface.</strong><br>
-        Beautiful online music player interface, inspired by Spotify. Focused on user experience (UX/UI) and cross-device compatibility.
+        <strong>Giao diện nghe nhạc hiện đại.</strong><br>
+        Giao diện trình phát nhạc trực tuyến đẹp mắt, lấy cảm hứng từ Spotify. Tập trung vào trải nghiệm người dùng (UX/UI) và khả năng tương thích trên nhiều thiết bị.
       </p>
       <p>
-        <strong>🛠 Tech Stack:</strong><br>
+        <strong>🛠 Công nghệ:</strong><br>
         <code>HTML5</code> <code>CSS3</code> <code>JavaScript (ES6+)</code>
       </p>
       <p align="left">
@@ -332,11 +332,11 @@ Here's a little bit about me:
     <td width="45%" valign="middle">
       <h3 align="left">🧩 Puzzle & Image Tools</h3>
       <p>
-        <strong>Puzzle Game & Image Processing Tools.</strong><br>
-        Entertainment web app with an interactive puzzle game and useful image processing tools (crop, grid split, resize).
+        <strong>Game xếp hình & Công cụ xử lý ảnh.</strong><br>
+        Web app giải trí với trò chơi xếp hình tương tác và bộ công cụ xử lý ảnh tiện ích (cắt ảnh, chia lưới, đổi kích thước).
       </p>
       <p>
-        <strong>🛠 Tech Stack:</strong><br>
+        <strong>🛠 Công nghệ:</strong><br>
         <code>HTML5</code> <code>Bootstrap</code> <code>JavaScript</code>
       </p>
       <p align="left">
@@ -350,26 +350,26 @@ Here's a little bit about me:
 </table>
 
 
-<p><em>(Click on the titles below to view project details 🔽)</em></p> 
+<p><em>(Nhấn vào các tiêu đề bên dưới để xem chi tiết dự án 🔽)</em></p> 
 
 <br>
 
 <details>
-<summary><strong>📱 Mobile Development (Android - Java)</strong></summary>
+<summary><strong>📱 Phát triển Di động (Android - Java)</strong></summary>
 <br>
 <div style="padding-left: 20px;">
 
 <details>
 <summary>
 <img alt="AquaTrack Logo"  src="img/logo_aquatrack_resized.png" align="center">
-<strong>AquaTrack (Water_Reminder) - Hydration Companion App</strong>
+<strong>AquaTrack (Water_Reminder) - Ứng dụng nhắc uống nước</strong>
 </summary>
 <div style="padding-left: 40px; padding-top: 10px;">
-<p>Created AquaTrack, a native Android application promoting better hydration. Allows users to easily log water consumption, visualize progress towards daily goals, and store data persistently using Firebase Firestore.</p>
+<p>Xây dựng AquaTrack, một ứng dụng Android gốc giúp thúc đẩy việc uống nước đầy đủ. Cho phép người dùng dễ dàng ghi lại lượng nước tiêu thụ, theo dõi tiến độ hướng tới mục tiêu hàng ngày và lưu trữ dữ liệu bền vững bằng Firebase Firestore.</p>
 <ul>
-<li><strong>Platform:</strong> Android</li>
-<li><strong>Language:</strong> Java</li>
-<li><strong>Database:</strong> Firebase Firestore</li>
+<li><strong>Nền tảng:</strong> Android</li>
+<li><strong>Ngôn ngữ:</strong> Java</li>
+<li><strong>Cơ sở dữ liệu:</strong> Firebase Firestore</li>
 </ul>
 </div>
 </details>
@@ -380,20 +380,20 @@ Here's a little bit about me:
 <br>
 
 <details>
-<summary><strong>🧠 Machine Learning</strong></summary>
+<summary><strong>🧠 Trí tuệ nhân tạo & Học máy</strong></summary>
 <br>
 <div style="padding-left: 20px;">
 
 <details>
 <summary>
 <img alt="Handwriting Signature Recognition"  src="img/logo_handwriting_resized.png" align="center">
-<strong>Handwriting Signature Recognition</strong>
+<strong>Nhận dạng chữ ký tay</strong>
 </summary>
 <div style="padding-left: 40px; padding-top: 10px;">
-<p>Developed a machine learning model for authenticating handwritten signatures. This project explores techniques for feature extraction and classification to verify signature authenticity.</p>
+<p>Phát triển mô hình học máy để xác thực chữ ký viết tay. Dự án khám phá các kỹ thuật trích xuất đặc trưng và phân loại để xác minh tính xác thực của chữ ký.</p>
 <ul>
-<li><strong>Language:</strong> Python</li>
-<li><strong>Libraries/Frameworks:</strong> TensorFlow, Keras, scikit-learn, OpenCV</li>
+<li><strong>Ngôn ngữ:</strong> Python</li>
+<li><strong>Thư viện:</strong> TensorFlow, Keras, scikit-learn, OpenCV</li>
 </ul>
 </div>
 </details>
@@ -403,8 +403,7 @@ Here's a little bit about me:
 
 ---
 
-
-## 🚀 My Contributions Snake
+## 🚀 Hoạt động đóng góp (Snake)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake-dark.svg">
@@ -412,10 +411,11 @@ Here's a little bit about me:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🚀 My Contributions Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TranHuuDat2004&bg_color=ffffff&color=000000&line=00e1ff&point=ffd500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🚀 Đồ thị đóng góp
 
-## 🚀 My Github Stats
+[![Đồ thị hoạt động github của Đạt](https://github-readme-activity-graph.vercel.app/graph?username=TranHuuDat2004&bg_color=ffffff&color=000000&line=00e1ff&point=ffd500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🚀 Thống kê Github
 
 <p align="center">
   <a href="https://github.com/TranHuuDat2004/github-readme-stats">
@@ -428,22 +428,21 @@ Here's a little bit about me:
 </p>
 
 <p align="center">
-  <!-- WAKATIME STATS -->
+  <!-- THỐNG KÊ WAKATIME -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-amber-six-48.vercel.app/api/wakatime?username=TranHuuDat2004&layout=compact&theme=radical&range=all_time" alt="WakaTime Stats"/>
   </a>
 </p>
 
-
 ---
 
-*   ➡️ Explore more of my projects in the [Repositories tab](https://github.com/TranHuuDat2004?tab=repositories).
+*   ➡️ Khám phá thêm các dự án của mình tại [tab Repositories](https://github.com/TranHuuDat2004?tab=repositories).
 
 ---
 
 <p align="center">
-  <strong>Thanks for visiting!</strong> 
+  <strong>Cảm ơn bạn đã ghé thăm!</strong> 
 </p>
 <p align="center">
-  <img src="img/coding.gif" alt="Coding GIF - Thanks for visiting!" width="400"/> 
+  <img src="img/coding.gif" alt="Coding GIF - Cảm ơn bạn đã ghé thăm!" width="400"/> 
 </p>
