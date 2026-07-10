@@ -1,278 +1,115 @@
-<!-- Optional Banner (Keep commented out unless you want it) -->
-<!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
 
-<h1 align="center">Hi 👋, I'm Tran Huu Dat</h1>
-<h3 align="center">I'm a Software Engineering student at Ton Duc Thang University (TDTU) from Vietnam.</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:3F46E5,20:2563EB,100:06B6D4&text=Hayate%20Krosaki&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<p align="center">
-  <strong>English</strong> | <a href="readme_vn.md">Tiếng Việt</a>
+<p align="center"
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=fffff&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+everyone+!+%F0%9F%91%8B+;+I'm+Hayate+Krosaki!" alt="hayate" /></a>
 </p>
 
-<img align="right" alt="Coding Animation" width="400" src="img/type.gif"> 
+<h3 align="center">Full-stack & Blockchain developer.</h3>
+
 <!-- Make sure 'type.gif' exists in your repository or replace the src with a valid URL -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TranHuuDat2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-Here's a little bit about me:
-- 🌱 I’m currently deepening my knowledge in **Web Development**.
-- 👯 I’m open to collaborating on **Web Development projects**.
-- 📫 How to reach me: **huudat.peashooer@gmail.com**
+---
+# 💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.facebook.com/tranhuudat.10112004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/huudat.2k4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+- 🌱 I’m dedicated to building secure, scalable, and user-focused applications.
+- 👯 I’m open to collaborating on **Web Development projects**.
+- 📫 How to reach me: **hayatekrosaki@gmail.com**
+---
+# 🛠️ Tech Stack
+
+<p align="center">
+  <row>
+    <p align="center" width="130" valign="middle">
+      <b>Languages</b>
+    </p>
+    <p valign="middle", align="center">
+      <img src="https://skillicons.dev/icons?i=java,js,ts,py,dart" alt="Languages" />
+    </p>
+  </row>
+  <row>
+    <p align="center" width="130" valign="middle">
+      <b>Frontend</b>
+    </p>
+    <p valign="middle", align="center">
+      <img src="https://skillicons.dev/icons?i=react,next,vue,redux,tailwind" alt="Frontend" />
+    </p>
+  </row>
+  <row>
+    <p align="center" width="130" valign="middle">
+      <b>Backend</b>
+    </p>
+    <p valign="middle", align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nest,fastapi,django,graphql" alt="Backend" />
+    </p>
+  </row>
+  <!-- <row>
+    <p align="center" width="130" valign="middle">
+      <b>Blockchain</b>
+    </p>
+    <p valign="middle", align="center">
+      solidity
+    </p>
+  </row>
+  <row> -->
+    <p align="center" width="130" valign="middle">
+      <b>Database</b>
+    </p>
+    <p valign="middle", align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase" alt="Database" />
+    </p>
+  </row>
+  <row>
+    <p align="center" width="130" valign="middle">
+      <b>DevOps & Tools</b>
+    </p>
+    <p valign="middle", align="center">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,gitlab,nginx,terraform,jenkins" alt="DevOps" />
+    </p>
+  </row>
+  <row>
+    <p align="center" width="130" valign="middle">
+      <b>Cloud</b>
+    </p>
+    <p valign="middle", align="center">
+      <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,heroku" alt="Cloud" />
+    </p>
+  </row>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
-      </a>
-      <br>HTML5
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" />
-      </a>
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
-      </a>
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-  </tr>
-</table>
+# 💼 Career Timeline
+<center>
 
-### 🏆 Academic Projects:
+```text
+2018  Junior software Developer
+
+        │
+
+2020  Full Stack developer
+
+        │
+
+2022  Senior Full Stack and Blockchain developer
+
+        │
+
+NOW   Senior Full Stack and Senior Blockchain developer 🚀
+```
+</center>
+
+---
+
+# 🏆 Academic Projects:
 
 <h3 align="center">🎨 Featured Projects Showcase</h3>
 
 <table border="0" width="100%">
-  
-  <!-- PROJECT 1: BRICKSHOP -->
-  <tr>
-    <td width="55%" align="center">
-      <a href="https://github.com/TranHuuDat2004/BrickShop">
-        <img src="img/home_brickshop.png" alt="BrickShop" width="100%" style="border-radius: 10px;" />
-      </a>
-    </td>
-    <td width="45%" valign="middle">
-      <h3 align="left">🧱 BrickShop E-commerce</h3>
-      <p>
-        <strong>Specialized e-commerce platform for Qman, Keeppley, and Lego.</strong><br>
-        Full-stack system with complete features: Shopping Cart, Payment, Order Management, and Admin Dashboard.
-      </p>
-      <p>
-        <strong>🛠 Tech Stack:</strong><br>
-        <code>Node.js</code> <code>Express</code> <code>MySQL</code><br>
-        <code>Bootstrap</code> <code>Tailwind CSS</code>
-      </p>
-      <p align="left">
-        <a href="https://github.com/TranHuuDat2004/BrickShop">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-
-  <!-- PROJECT 2: OMACHA SHOP -->
-  <tr>
-    <td width="45%" valign="middle">
-      <h3 align="left">🧸 Omacha Shop</h3>
-      <p>
-        <strong>Full-stack toy store.</strong><br>
-        E-commerce platform specialized in toys. Comprehensive shopping experience for customers and a powerful management system (Admin).
-      </p>
-      <p>
-        <strong>🛠 Tech Stack:</strong><br>
-        <code>PHP</code> <code>MySQL</code> <code>Bootstrap</code><br>
-        <code>JavaScript</code>
-      </p>
-      <p align="left">
-        <a href="https://github.com/TranHuuDat2004/Omacha-Shop">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="55%" align="center">
-      <a href="https://github.com/TranHuuDat2004/Omacha-Shop">
-        <img src="img/home_omacha.jpg" alt="Omacha Shop" width="100%" style="border-radius: 10px;" />
-      </a>
-    </td>
-  </tr>
-
-  <!-- PROJECT 3: ZSTYLE -->
-  <tr>
-    <td width="55%" align="center">
-      <a href="https://github.com/TranHuuDat2004/ZStyle">
-        <img src="img/home_zstyle.png" alt="ZStyle" width="100%" style="border-radius: 10px;" />
-      </a>
-    </td>
-    <td width="45%" valign="middle">
-      <h3 align="left">👗 ZStyle Fashion</h3>
-      <p>
-        <strong>Basic fashion website.</strong><br>
-        Clothing website with core functions: product viewing, shopping cart management, and basic checkout process. A PHP & MySQL based project.
-      </p>
-      <p>
-        <strong>🛠 Tech Stack:</strong><br>
-        <code>PHP</code> <code>MySQL</code> <code>HTML5/CSS3</code><br>
-        <code>JavaScript</code>
-      </p>
-      <p align="left">
-        <a href="https://github.com/TranHuuDat2004/ZStyle">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-
-  <!-- PROJECT 4: UNIDOCS -->
-  <tr>
-    <td width="45%" valign="middle">
-      <h3 align="left">📚 UniDocs Ecosystem</h3>
-      <p>
-        <strong>Document Repository & Comprehensive Learning Ecosystem.</strong><br>
-        UniDocs: A free course material repository for IT students. Easy and efficient access to textbooks, lectures, and exams for specialized subjects.
-      </p>
-      <p>
-        <strong>🛠 Tech Stack:</strong><br>
-        <code>HTML5</code> <code>Tailwind CSS</code> <code>Vanilla JS</code><br>
-      </p>
-      <p align="left">
-        <a href="https://github.com/TranHuuDat2004/UniDocs">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="55%" align="center">
-      <a href="https://github.com/TranHuuDat2004/UniDocs">
-        <img src="img/home_unidocs.png" alt="UniDocs" width="100%" style="border-radius: 10px;" />
-      </a>
-    </td>
-  </tr>
-
-  <!-- PROJECT 5: SLIDIFY -->
-  <tr>
-    <td width="55%" align="center">
-      <a href="https://github.com/TranHuuDat2004/Slidify">
-        <img src="img/home_slidify.png" alt="Slidify" width="100%" style="border-radius: 10px;" />
-      </a>
-    </td>
-    <td width="45%" valign="middle">
-      <h3 align="left">📑 Slidify</h3>
-      <p>
-        <strong>Interactive Bilingual Slide Learning Platform.</strong><br>
-        Slidify: An interactive learning platform that transforms English lecture slides into bilingual lessons with detailed notes and terminology explanations.
-      </p>
-      <p>
-        <strong>🛠 Tech Stack:</strong><br>
-        <code>JavaScript (ES6+)</code> <code>LocalStorage</code> <code>CSS3</code>
-      </p>
-      <p align="left">
-        <a href="https://tranhuudat2004.github.io/Slidify/">
-          <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
-        </a>
-        <a href="https://github.com/TranHuuDat2004/Slidify">
-          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-
-  <!-- PROJECT 6: APTIS PRACTICE -->
-  <tr>
-    <td width="45%" valign="middle">
-      <h3 align="left">🎓 Aptis Practice Tool</h3>
-      <p>
-        <strong>Highly Interactive Certification Exam Practice Web App.</strong><br>
-        An interactive Aptis ESOL practice website featuring: Drag & Drop, Audio Player, and a timer. Built with HTML, CSS, and JavaScript.
-      </p>
-      <p>
-        <strong>🛠 Tech Stack:</strong><br>
-        <code>Advanced JS</code> <code>SortableJS</code> <code>Driver.js</code><br>
-        <code>JSON Data Structure</code>
-      </p>
-      <p align="left">
-        <a href="https://tranhuudat2004.github.io/aptis-practice/">
-          <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
-        </a>
-        <a href="https://github.com/TranHuuDat2004/aptis-practice">
-          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="55%" align="center">
-      <a href="https://github.com/TranHuuDat2004/aptis-practice">
-        <img src="img/home_aptis.png" alt="Aptis Practice" width="100%" style="border-radius: 10px;" />
-      </a>
-    </td>
-  </tr>
-
-  <!-- PROJECT 7: ANIME.TV -->
-  <tr>
+    <!-- PROJECT 7: ANIME.TV -->
+  <!-- <tr>
     <td width="55%" align="center">
       <a href="https://tranhuudat2004.github.io/anime.tv/">
         <img src="img/home_animetv.png" alt="Anime.TV" width="100%" style="border-radius: 10px;" />
@@ -295,7 +132,7 @@ Here's a little bit about me:
         </a>
       </p>
     </td>
-  </tr>
+  </tr> -->
 
   <!-- PROJECT 8: MYMUSIC -->
   <tr>
@@ -349,92 +186,34 @@ Here's a little bit about me:
 
 </table>
 
-
 <p><em>(Click on the titles below to view project details 🔽)</em></p> 
 
-<br>
-
-<details>
-<summary><strong>📱 Mobile Development (Android - Java)</strong></summary>
-<br>
-<div style="padding-left: 20px;">
-
-<details>
-<summary>
-<img alt="AquaTrack Logo"  src="img/logo_aquatrack_resized.png" align="center">
-<strong>AquaTrack (Water_Reminder) - Hydration Companion App</strong>
-</summary>
-<div style="padding-left: 40px; padding-top: 10px;">
-<p>Created AquaTrack, a native Android application promoting better hydration. Allows users to easily log water consumption, visualize progress towards daily goals, and store data persistently using Firebase Firestore.</p>
-<ul>
-<li><strong>Platform:</strong> Android</li>
-<li><strong>Language:</strong> Java</li>
-<li><strong>Database:</strong> Firebase Firestore</li>
-</ul>
-</div>
-</details>
-
-</div>
-</details>
-
-<br>
-
-<details>
-<summary><strong>🧠 Machine Learning</strong></summary>
-<br>
-<div style="padding-left: 20px;">
-
-<details>
-<summary>
-<img alt="Handwriting Signature Recognition"  src="img/logo_handwriting_resized.png" align="center">
-<strong>Handwriting Signature Recognition</strong>
-</summary>
-<div style="padding-left: 40px; padding-top: 10px;">
-<p>Developed a machine learning model for authenticating handwritten signatures. This project explores techniques for feature extraction and classification to verify signature authenticity.</p>
-<ul>
-<li><strong>Language:</strong> Python</li>
-<li><strong>Libraries/Frameworks:</strong> TensorFlow, Keras, scikit-learn, OpenCV</li>
-</ul>
-</div>
-</details>
-
-</div>
-</details>
 
 ---
 
 
-## 🚀 My Contributions Snake
+# 🚀 My Contributions Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+---
+# 🚀 My Contributions Graph
+<div align="center">
+  <img align="center"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=HayateKrosaki&theme=tokyo-night&hide_border=true"/>
+</div>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake.svg">
-</picture>
-
-## 🚀 My Contributions Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TranHuuDat2004&bg_color=ffffff&color=000000&line=00e1ff&point=ffd500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🚀 My Github Stats
-
-<p align="center">
-  <a href="https://github.com/TranHuuDat2004/github-readme-stats">
-    <img height="200" src="https://github-readme-stats-amber-six-48.vercel.app/api?username=TranHuuDat2004&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
-  </a>
-  
-  <a href="https://github.com/TranHuuDat2004/github-readme-stats">
-    <img height="200" src="https://github-readme-stats-amber-six-48.vercel.app/api/top-langs?username=TranHuuDat2004&theme=radical&layout=compact&langs_count=8&card_width=320" /> 
-  </a>
-</p>
-
-<p align="center">
-  <!-- WAKATIME STATS -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-amber-six-48.vercel.app/api/wakatime?username=TranHuuDat2004&layout=compact&theme=radical&range=all_time" alt="WakaTime Stats"/>
-  </a>
-</p>
-
-
+# 🚀 My Github Stats
+<center>
+  <div align="center">
+    <img align="center"
+    src="https://streak-stats.demolab.com?user=HayateKrosaki&theme=tokyonight&hide_border=true"/>
+  </div>
 ---
 
 *   ➡️ Explore more of my projects in the [Repositories tab](https://github.com/TranHuuDat2004?tab=repositories).
@@ -444,6 +223,9 @@ Here's a little bit about me:
 <p align="center">
   <strong>Thanks for visiting!</strong> 
 </p>
+
 <p align="center">
   <img src="img/coding.gif" alt="Coding GIF - Thanks for visiting!" width="400"/> 
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:4F46E5,50:2563EB,100:06B6D4"/>
